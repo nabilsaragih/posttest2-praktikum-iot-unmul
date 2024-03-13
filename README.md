@@ -17,9 +17,10 @@ Mengatur intensitas kecerahan lampu dan tone buzzer dengan menggunakan push butt
 ## Komponen yang Digunakan
 1. NodeMCU x1
 2. Lampu LED x1
-3. Resistor x1
-4. Push Button x3
-5. Kabel x12
+3. Buzzer x1
+4. Resistor x1
+5. Push Button x3
+6. Kabel x12
 
 ## Board Schematic
 ![Board Schematic]()
