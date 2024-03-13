@@ -10,6 +10,9 @@ Monitoring Kecerahan Lampu dan Tone Buzzer
 ## Deskripsi
 Mengatur intensitas kecerahan lampu dan tone buzzer dengan menggunakan push button yang dapat dimonitor pada webserver.
 
+## Metode IoT
+Monitoring menggunakan webserver yang dihosting pada NodeMCU dan dapat diakses menggunakan IP yang diberikan oleh DHCP WiFi ke NodeMCU
+
 ## Pembagian Tugas
 - Joy Disanto Nupa: Merakit komponen
 - Muhammad Nabil Saragih: Membuat source code
