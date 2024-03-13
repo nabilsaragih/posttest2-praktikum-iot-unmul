@@ -26,4 +26,4 @@ Mengatur intensitas kecerahan lampu dan tone buzzer dengan menggunakan push butt
 ![Board Schematic]()
 
 ## Lampiran
-[LINK YOUTUBE]()
+[LINK YOUTUBE](https://youtu.be/b3qjMcWJyvc)
