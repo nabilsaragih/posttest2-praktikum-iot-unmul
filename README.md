@@ -23,7 +23,7 @@ Mengatur intensitas kecerahan lampu dan tone buzzer dengan menggunakan push butt
 6. Kabel x12
 
 ## Board Schematic
-![Board Schematic]()
+![Board Schematic](https://github.com/nabilsaragih/posttest2-praktikum-iot-unmul/blob/main/pt2.jpg)
 
 ## Lampiran
 [LINK YOUTUBE](https://youtu.be/b3qjMcWJyvc)
